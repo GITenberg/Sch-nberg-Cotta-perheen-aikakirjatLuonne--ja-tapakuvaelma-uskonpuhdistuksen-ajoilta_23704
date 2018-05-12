@@ -1,0 +1,44 @@
+_repo: Sch-nberg-Cotta-perheen-aikakirjatLuonne--ja-tapakuvaelma-uskonpuhdistuksen-ajoilta_23704
+_version: 0.1.0
+alternative_title: Chronicles of the Schönberg-Cotta family. Finnish
+contributor:
+  translator:
+    agent_name: Churberg, Waldemar
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '7860'
+    url: http://www.gutenberg.org/2009/agents/7860
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charles, Elizabeth Rundle
+    alias: Charles, Elisabeth Rundle
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '25999'
+    url: http://www.gutenberg.org/2009/agents/25999
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Charles
+description: ''
+gutenberg_issued: '2007-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23704'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Reformation -- Fiction'
+- !lcsh 'Germany -- History -- Late Middle Ages, 1254-1517 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Luther, Martin, 1483-1546 -- Fiction'
+- !lcsh 'Germany -- History -- Reformation and Counter-Reformation, 1517-1618 -- Fiction'
+- !lcsh 'Christian fiction'
+title: 'Schönberg-Cotta perheen aikakirjat
+
+  Luonne- ja tapakuvaelma uskonpuhdistuksen ajoilta'
+url: http://www.gutenberg.org/ebooks/23704
