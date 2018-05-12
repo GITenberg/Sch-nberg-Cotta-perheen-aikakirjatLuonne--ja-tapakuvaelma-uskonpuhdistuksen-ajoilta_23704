@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25999
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Charles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23704#Sch-nberg-Cotta-perheen-aikakirjatLuonne--ja-tapakuvaelma-uskonpuhdistuksen-ajoilta
 gutenberg_issued: '2007-12-03'
 gutenberg_type: Text
 identifiers:
